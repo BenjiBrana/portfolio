@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f371464a.css",
-    "main.js": "/portfolio/static/js/main.97ad56c6.js",
+    "main.css": "/portfolio/static/css/main.7f70205c.css",
+    "main.js": "/portfolio/static/js/main.6ed6fd68.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/logo_goldpendu.webp": "/portfolio/static/media/logo_goldpendu.da8fe63a7dee9e607a2d.webp",
     "static/media/logo_portfolio_projet.png": "/portfolio/static/media/logo_portfolio_projet.6a6847bebd6ab0eb76ae.png",
@@ -17,12 +17,12 @@
     "static/media/logo_prixdirect.webp": "/portfolio/static/media/logo_prixdirect.d1e2e40ab8fa4e7e68ce.webp",
     "static/media/logo_tailwind.png": "/portfolio/static/media/logo_tailwind.0bceb8d36c17cc239efa.png",
     "index.html": "/portfolio/index.html",
-    "main.f371464a.css.map": "/portfolio/static/css/main.f371464a.css.map",
-    "main.97ad56c6.js.map": "/portfolio/static/js/main.97ad56c6.js.map",
+    "main.7f70205c.css.map": "/portfolio/static/css/main.7f70205c.css.map",
+    "main.6ed6fd68.js.map": "/portfolio/static/js/main.6ed6fd68.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f371464a.css",
-    "static/js/main.97ad56c6.js"
+    "static/css/main.7f70205c.css",
+    "static/js/main.6ed6fd68.js"
   ]
 }
