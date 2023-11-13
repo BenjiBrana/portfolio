@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.300c8b23.css",
-    "main.js": "/portfolio/static/js/main.0d5e5fa1.js",
+    "main.js": "/portfolio/static/js/main.8c070670.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
-    "static/media/logo_goldpendu.webp": "/portfolio/static/media/logo_goldpendu.25f996aaf9830200b123.webp",
+    "static/media/logo_goldpendu.webp": "/portfolio/static/media/logo_goldpendu.1ee5aad73ec6a3cd7899.webp",
+    "static/media/logo_portfolio_projet.png": "/portfolio/static/media/logo_portfolio_projet.6a6847bebd6ab0eb76ae.png",
     "static/media/logo_css.png": "/portfolio/static/media/logo_css.03d2db0d527596939d8a.png",
     "static/media/logo_html.png": "/portfolio/static/media/logo_html.63fe25108de8291b0316.png",
     "static/media/logo_js.png": "/portfolio/static/media/logo_js.282ab770090dcbd89911.png",
@@ -13,17 +14,16 @@
     "static/media/logo_mysql.png": "/portfolio/static/media/logo_mysql.c172ef48752403416494.png",
     "static/media/logo_bootstrap.png": "/portfolio/static/media/logo_bootstrap.537f85e563a9ac189387.png",
     "static/media/photo_logo.jpg": "/portfolio/static/media/photo_logo.fb1b75e63461b1526552.jpg",
-    "static/media/logo_prixdirect.webp": "/portfolio/static/media/logo_prixdirect.0cca70064c694ceb6679.webp",
+    "static/media/logo_prixdirect.webp": "/portfolio/static/media/logo_prixdirect.d1e2e40ab8fa4e7e68ce.webp",
     "static/media/logo_tailwind.png": "/portfolio/static/media/logo_tailwind.0bceb8d36c17cc239efa.png",
-    "static/media/logo_portfolio_projet.png": "/portfolio/static/media/logo_portfolio_projet.99e4b8f754ced4d69269.png",
     "static/media/en_construction.jpg": "/portfolio/static/media/en_construction.59db6b04f9ac6678a81e.jpg",
     "index.html": "/portfolio/index.html",
     "main.300c8b23.css.map": "/portfolio/static/css/main.300c8b23.css.map",
-    "main.0d5e5fa1.js.map": "/portfolio/static/js/main.0d5e5fa1.js.map",
+    "main.8c070670.js.map": "/portfolio/static/js/main.8c070670.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.300c8b23.css",
-    "static/js/main.0d5e5fa1.js"
+    "static/js/main.8c070670.js"
   ]
 }
