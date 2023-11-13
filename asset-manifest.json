@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c4a7e552.css",
-    "main.js": "/portfolio/static/js/main.017e406f.js",
+    "main.css": "/portfolio/static/css/main.5e51a993.css",
+    "main.js": "/portfolio/static/js/main.0d5e5fa1.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/logo_goldpendu.webp": "/portfolio/static/media/logo_goldpendu.25f996aaf9830200b123.webp",
     "static/media/logo_css.png": "/portfolio/static/media/logo_css.03d2db0d527596939d8a.png",
@@ -18,12 +18,12 @@
     "static/media/logo_portfolio_projet.png": "/portfolio/static/media/logo_portfolio_projet.99e4b8f754ced4d69269.png",
     "static/media/en_construction.jpg": "/portfolio/static/media/en_construction.59db6b04f9ac6678a81e.jpg",
     "index.html": "/portfolio/index.html",
-    "main.c4a7e552.css.map": "/portfolio/static/css/main.c4a7e552.css.map",
-    "main.017e406f.js.map": "/portfolio/static/js/main.017e406f.js.map",
+    "main.5e51a993.css.map": "/portfolio/static/css/main.5e51a993.css.map",
+    "main.0d5e5fa1.js.map": "/portfolio/static/js/main.0d5e5fa1.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4a7e552.css",
-    "static/js/main.017e406f.js"
+    "static/css/main.5e51a993.css",
+    "static/js/main.0d5e5fa1.js"
   ]
 }
