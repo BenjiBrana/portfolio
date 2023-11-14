@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7f70205c.css",
-    "main.js": "/portfolio/static/js/main.7cc143dc.js",
+    "main.js": "/portfolio/static/js/main.a68dd316.js",
     "static/js/787.35dd0f9c.chunk.js": "/portfolio/static/js/787.35dd0f9c.chunk.js",
     "static/media/logo_goldpendu.webp": "/portfolio/static/media/logo_goldpendu.44bcfeb3515f9e90519f.webp",
     "static/media/logo_react.webp": "/portfolio/static/media/logo_react.c032022964cff29594bd.webp",
-    "static/media/logo_sass.webp": "/portfolio/static/media/logo_sass.d12ca8a0e749a424c9fe.webp",
     "static/media/logo_sql.webp": "/portfolio/static/media/logo_sql.156f5435dd61aa20cc28.webp",
     "static/media/logo_php.webp": "/portfolio/static/media/logo_php.20ca54f908c3fef41e55.webp",
     "static/media/photo_logo.webp": "/portfolio/static/media/photo_logo.28a876842e7f7347e62c.webp",
@@ -21,11 +20,11 @@
     "static/media/logo_linkedin.webp": "/portfolio/static/media/logo_linkedin.6b5409184affe82dc0bc.webp",
     "static/media/logo_github.webp": "/portfolio/static/media/logo_github.85f913249a63721cbed8.webp",
     "main.7f70205c.css.map": "/portfolio/static/css/main.7f70205c.css.map",
-    "main.7cc143dc.js.map": "/portfolio/static/js/main.7cc143dc.js.map",
+    "main.a68dd316.js.map": "/portfolio/static/js/main.a68dd316.js.map",
     "787.35dd0f9c.chunk.js.map": "/portfolio/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f70205c.css",
-    "static/js/main.7cc143dc.js"
+    "static/js/main.a68dd316.js"
   ]
 }
