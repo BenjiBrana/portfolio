@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7f70205c.css",
-    "main.js": "/portfolio/static/js/main.2b8aad00.js",
+    "main.css": "/portfolio/static/css/main.5ace99a1.css",
+    "main.js": "/portfolio/static/js/main.fce5d7c5.js",
     "static/js/787.35dd0f9c.chunk.js": "/portfolio/static/js/787.35dd0f9c.chunk.js",
     "static/media/logo_goldpendu.webp": "/portfolio/static/media/logo_goldpendu.44bcfeb3515f9e90519f.webp",
     "static/media/photo_logo.webp": "/portfolio/static/media/photo_logo.28a876842e7f7347e62c.webp",
@@ -20,12 +20,12 @@
     "static/media/logo_tailwind.webp": "/portfolio/static/media/logo_tailwind.c54b59741792fe8c4f61.webp",
     "static/media/logo_fb.webp": "/portfolio/static/media/logo_fb.3357f8c442f1739a94a9.webp",
     "static/media/logo_github.webp": "/portfolio/static/media/logo_github.85f913249a63721cbed8.webp",
-    "main.7f70205c.css.map": "/portfolio/static/css/main.7f70205c.css.map",
-    "main.2b8aad00.js.map": "/portfolio/static/js/main.2b8aad00.js.map",
+    "main.5ace99a1.css.map": "/portfolio/static/css/main.5ace99a1.css.map",
+    "main.fce5d7c5.js.map": "/portfolio/static/js/main.fce5d7c5.js.map",
     "787.35dd0f9c.chunk.js.map": "/portfolio/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f70205c.css",
-    "static/js/main.2b8aad00.js"
+    "static/css/main.5ace99a1.css",
+    "static/js/main.fce5d7c5.js"
   ]
 }
